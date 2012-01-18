@@ -1,0 +1,25 @@
+[{
+	"text" : "WIP",
+	"leaf" : false,
+	"children" : [{
+		"text" : "Create Factory",
+		"leaf" : true,
+		"view" : "CreateFactory"
+	}, {
+		"text" : "Create Lot",
+		"leaf" : true,
+		"view" : "CreateLot"
+	}]
+}, {
+	"text" : "RAS",
+	"leaf" : false,
+	"children" : [{
+		"text" : "Create Resource",
+		"leaf" : true,
+		"view" : "CreateResource"
+	}, {
+		"text" : "Create Tool",
+		"leaf" : true,
+		"view" : "CreateTool"
+	}]
+}]
